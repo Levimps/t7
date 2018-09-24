@@ -1,0 +1,13 @@
+C:\Users\Levi\Desktop\SoftwareArchitecture-master\lab7\Singleton\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+C:\Users\Levi\Desktop\SoftwareArchitecture-master\lab7\Singleton\Singleton\obj\Debug\Singleton.Form1.resources
+C:\Users\Levi\Desktop\SoftwareArchitecture-master\lab7\Singleton\Singleton\obj\Debug\Singleton.Properties.Resources.resources
+C:\Users\Levi\Desktop\SoftwareArchitecture-master\lab7\Singleton\Singleton\obj\Debug\Singleton.csproj.GenerateResource.cache
+C:\Users\Levi\Desktop\SoftwareArchitecture-master\lab7\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Levi\Desktop\SoftwareArchitecture-master\lab7\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Levi\Desktop\SoftwareArchitecture-master\lab7\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\Levi\Desktop\SoftwareArchitecture-master\lab7\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\Levi\Desktop\SoftwareArchitecture-master\lab7\Singleton\Singleton\bin\Debug\TestStationLibrary.dll
+C:\Users\Levi\Desktop\SoftwareArchitecture-master\lab7\Singleton\Singleton\bin\Debug\TestStationLibrary.pdb
+C:\Users\Levi\Desktop\SoftwareArchitecture-master\lab7\Singleton\Singleton\obj\Debug\Singleton.csproj.CopyComplete
+C:\Users\Levi\Desktop\SoftwareArchitecture-master\lab7\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\Levi\Desktop\SoftwareArchitecture-master\lab7\Singleton\Singleton\obj\Debug\Singleton.pdb

@@ -1,0 +1,6 @@
+C:\Users\Levi\Desktop\SoftwareArchitecture-master\lab7\Singleton\TestStationLibrary\bin\Debug\TestStationLibrary.dll
+C:\Users\Levi\Desktop\SoftwareArchitecture-master\lab7\Singleton\TestStationLibrary\bin\Debug\TestStationLibrary.pdb
+C:\Users\Levi\Desktop\SoftwareArchitecture-master\lab7\Singleton\TestStationLibrary\obj\Debug\TestStationLibrary.csprojAssemblyReference.cache
+C:\Users\Levi\Desktop\SoftwareArchitecture-master\lab7\Singleton\TestStationLibrary\obj\Debug\TestStationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Levi\Desktop\SoftwareArchitecture-master\lab7\Singleton\TestStationLibrary\obj\Debug\TestStationLibrary.dll
+C:\Users\Levi\Desktop\SoftwareArchitecture-master\lab7\Singleton\TestStationLibrary\obj\Debug\TestStationLibrary.pdb
